@@ -1,1 +1,1 @@
-# MCTS_game
+# Algorithm MCTS
